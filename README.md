@@ -24,7 +24,6 @@ Technical requirements and API access:
 4)click on +.
 5)Now in the search bar we can search for gemini api and create it and enable it.
 6)Once created all you need to do is copy the api key  and this can also be managed through credentials in APIs services in the menu bar.
-Example: GOOGLE_API_KEY="AIzaSyDexsI4c1ZsKK1QuiYxCPA9Er2Ko9IVmYg"
 
 **Setting up Environment:**
 Installing necessary libraries:
