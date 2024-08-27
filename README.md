@@ -100,6 +100,8 @@ User guide:
 For running the application run by 
 Streamlit run app.py    //app.py is file name where i developed my code
 And then the chatbot opens and simply test it through prompt.
+![Screenshot 2024-08-16 220906](https://github.com/user-attachments/assets/ade213ad-d6d5-4b08-834f-b7ec8998ac1c)
 
+![Screenshot 2024-08-16 220712](https://github.com/user-attachments/assets/1b5767be-26fc-4ba2-bfc6-fa0c9ae2f178)
 
 
